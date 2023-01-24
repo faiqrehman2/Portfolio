@@ -1,6 +1,6 @@
 {
-  "name": "portfolioTemplate",
-  "homepage": "https://faiqrehman2.github.io",
+  "name": "portfolio",
+  "homepage": "https://faiqrehman2.github.io/portfolio",
   "version": "2.0.0",
   "private": true,
   "dependencies": {
