@@ -118,21 +118,19 @@ export const info = {
         },
         {
             title: "Portfolio",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            source: "https://github.com/faiqrehman2/Portfolio",
             image: mock3
         },
         {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Task Tracker",
+            source: "https://github.com/faiqrehman2/Task-Tracker",
             image: mock4
         },
-        {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock5
-        }
+        // {
+        //     title: "Project 5",
+        //     live: "https://paytonpierce.dev",
+        //     source: "https://github.com/paytonjewell",
+        //     image: mock5
+        // }
     ]
 }
